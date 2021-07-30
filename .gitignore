@@ -1,4 +1,9 @@
 node_modules
 package-lock.json
+<<<<<<< HEAD
 .eslintrc.json
 package.json
+=======
+package.json
+.eslintrc.json
+>>>>>>> 1a2de7c7c4add01d4a8a4a745709ee0c30925430
